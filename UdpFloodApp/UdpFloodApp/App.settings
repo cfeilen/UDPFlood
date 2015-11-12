@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UdpFloodApp" GeneratedClassName="App">
+  <Profiles />
+  <Settings>
+    <Setting Name="PortNumber" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">51999</Value>
+    </Setting>
+    <Setting Name="PacketSizeInBytes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2500</Value>
+    </Setting>
+    <Setting Name="NumberOfPacketsPerSecond" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="AutoStart" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
